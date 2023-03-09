@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Christian Gálvez</h1>
+<img src="https://raw.githubusercontent.com/proyectox123/proyectox123/master/images/banner_android_kotlin.jpeg" width="100%" alt="header" border="0" />
+
+
+<h1 align="center">Hello world!!! I'm Christian Gálvez 😗</h1>
 <h3 align="center">A passionate back end developer from Barcelona/Spain 🌆</h3>
 
 <h3 align="left">Connect with me:</h3>
