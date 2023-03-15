@@ -3,8 +3,9 @@
 
 
 
-<h1 align="center">Hello world!!! I'm Christian Gálvez 😗</h1>
-<h3 align="center">A passionate back end developer from Barcelona/Spain 🌆</h3>
+<h1 align="center">Hello world!!! I'm Christian Gálvez 😊</h1>
+<h3 align="center">A passionate back end developer from Barcelona/Spain 🌆<br>
+</h3>
 
 ## Connect with me
 <p align="left">
