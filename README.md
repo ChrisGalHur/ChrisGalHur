@@ -4,8 +4,9 @@
 
 
 <h1 align="center">Hello world!!! I'm Christian Gálvez 😊</h1>
-<h3 align="center">A passionate back end developer from Barcelona/Spain 🌆<br>
-</h3>
+<h3 align="center">A passionate back end developer from Barcelona/Spain 🌆</h3>
+My specialty is java, working together with spring managing databases in both MongoDB and MySQL.
+I'm a proactive person; "I'm hungry" to learn and improve every day.
 
 ## Connect with me
 <p align="left">
