@@ -13,6 +13,7 @@ I'm a proactive person; "I'm hungry" to learn and improve every day.
   
 Passionate about life and enjoys every moment of it. 🔝<br>
 I love nature and the peace of the mountains. 🌄 <br>
+That is why my zen moment is mtb and hiking. 🚵 <br>
 
   <br>
 
