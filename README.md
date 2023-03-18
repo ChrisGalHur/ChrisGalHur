@@ -5,15 +5,16 @@
 
 <h1 align="center">Hello world!!! I'm Christian Gálvez 😊</h1>
 <h3 align="center">A passionate back end developer from Barcelona/Spain 🌆</h3>
+
 <h4>💻 TO WORK:</h4>
 My specialty is java, working together with spring managing databases in both MongoDB and MySQL.
 I'm a proactive person; "I'm hungry" to learn and improve every day.
 
-<h4>🙋 ABAUT ME:<h4>
+<h4>🙋 ABAUT ME:</h4>
   
-Passionate about life and enjoys every moment of it. 🔝<br>
-I love nature and the peace of the mountains. 🌄 <br>
-That is why my zen moment is mtb and hiking. 🚵 <br>
+Passionate about life and enjoys every moment of it. 🔝
+I love nature and the peace of the mountains. 🌄
+That is why my zen moment is mtb and hiking. 🚵
 
   <br>
 
