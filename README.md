@@ -12,9 +12,9 @@ I'm a proactive person; "I'm hungry" to learn and improve every day.
 
 <h4>🙋 ABAUT ME:</h4>
   
-Passionate about life and enjoys every moment of it. 🔝
-I love nature and the peace of the mountains. 🌄
-That is why my zen moment is mtb and hiking. 🚵
+Passionate about life and enjoys every moment of it. 🔝<br>
+I love nature and the peace of the mountains. 🌄<br>
+That is why my zen moment is mtb and hiking. 🚵<br>
 
   <br>
 
