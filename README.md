@@ -10,7 +10,7 @@
 My specialty is java, working together with spring managing databases in both MongoDB and MySQL.<br>
 I'm a proactive person; "I'm hungry" to learn and improve every day.<br>
 Currently I have discovered java on android and I am passionate about it.<br>
-You can see my projects and my learning below.👇<br>
+You can see my projects and my learnings below.👇<br>
 
 <h4>🙋 ABAUT ME:</h4>
   
