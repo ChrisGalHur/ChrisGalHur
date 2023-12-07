@@ -10,7 +10,7 @@
 My specialty is java, working together with spring managing databases in both MongoDB and MySQL.<br>
 I'm a proactive person; "I'm hungry" to learn and improve every day.<br>
 Currently I have discovered java on android and I am passionate about it.<br>
-You can see my projects and my apprenticeship below.👇<br>
+You can see my projects and my learning below.👇<br>
 
 <h4>🙋 ABAUT ME:</h4>
   
@@ -28,7 +28,7 @@ That is why my zen moment is mtb and hiking. 🚵<br>
 
 # My repositories
 
-## <a name="aprenticeship"></a>Aprenticeship
+## <a name="learning"></a>Learning
 - [Inheritance and polymorphism](https://github.com/ChrisGalHur/Inheritance_and_polymorphism/tree/main/src/main/java/org/example)
 <br>
 
