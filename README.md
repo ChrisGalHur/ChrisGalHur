@@ -4,18 +4,19 @@
 
 
 <h1 align="center">Hello world!!! I'm Christian Gálvez 😊</h1>
-<h3 align="center">A passionate back end developer from Barcelona/Spain 🌆</h3>
+<h3 align="center">A passionate back end and Android Java developer from Barcelona/Spain 🌆</h3>
 
 <h4>💻 TO WORK:</h4>
-My specialty is java, working together with spring managing databases in both MongoDB and MySQL.
-I'm a proactive person; "I'm hungry" to learn and improve every day.
+My specialty is java, working together with spring managing databases in both MongoDB and MySQL.<br>
+I'm a proactive person; "I'm hungry" to learn and improve every day.<br>
+Currently I have discovered java on android and I am passionate about it.<br>
+You can see my Proyectos together with my apprenticeship below.👇<br>
 
 <h4>🙋 ABAUT ME:</h4>
   
 Passionate about life and enjoys every moment of it. 🔝<br>
 I love nature and the peace of the mountains. 🌄<br>
 That is why my zen moment is mtb and hiking. 🚵<br>
-
   <br>
 
 
@@ -31,3 +32,8 @@ That is why my zen moment is mtb and hiking. 🚵<br>
 ![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisGalHur&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisGalHur&layout=compact&show_icons=true&theme=dark)](https://github.com/ChrisGalHur/github-readme-stats)
+
+# <a name="projects"></a>Projects
+
+# <a name="aprenticeship"></a>Aprenticeship
+- [Inheritance and polymorphism](https://github.com/ChrisGalHur/Inheritance_and_polymorphism/tree/main/src/main/java/org/example)
