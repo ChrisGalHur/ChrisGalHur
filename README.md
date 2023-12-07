@@ -28,7 +28,7 @@ That is why my zen moment is mtb and hiking. 🚵<br>
 
 # My repositories
 
-## <a name="learning"></a>Learning
+## <a name="knowledge"></a>Knowledge
 - [Inheritance and polymorphism](https://github.com/ChrisGalHur/Inheritance_and_polymorphism/tree/main/src/main/java/org/example)
 <br>
 
