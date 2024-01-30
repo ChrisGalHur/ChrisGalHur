@@ -18,7 +18,14 @@ You can see my projects and my learnings below.👇<br>
 Passionate about life and enjoys every moment of it. 🔝<br>
 I love nature and the peace of the mountains. 🌄<br>
 That is why my zen moment is mtb and hiking. 🚵<br>
-  <br>
+<br>
+
+<h3>:pick: Now i'm working on:</h3>
+
+[Backend for a Dice Game with JWT Security](https://github.com/ChrisGalHur/Dice-Game-Backend)
+<br>
+<br>
+<br>
 
 ## Connect with me
 <p align="left">
