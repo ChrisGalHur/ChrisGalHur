@@ -37,7 +37,7 @@ That is why my zen moment is mtb and hiking. 🚵<br>
 # My repositories
 
 ## <a name="projects"></a>Projects
-[Backend for a Dice Game with JWT Security](https://github.com/ChrisGalHur/Dice-Game-Backend)
+- [Backend for a Dice Game with JWT Security](https://github.com/ChrisGalHur/Dice-Game-Backend)
 
 ## <a name="knowledge"></a>Knowledge
 - [Inheritance and polymorphism](https://github.com/ChrisGalHur/Inheritance_and_polymorphism)
