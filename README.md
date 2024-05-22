@@ -7,6 +7,11 @@
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"</h1>
 <h3 align="center">A passionate back end and Android Java developer from Barcelona/Spain 🌆</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chrisgalhur&label=Profile%20views&color=0e75b6&style=flat" alt="ChrisGalHur" />
+  <img src="https://img.shields.io/github/followers/ChrisGalHur?label=Followers" alt="ChrisGalHur" />
+</p>
+
 <h4>💻 TO WORK:</h4>
 My specialty is java, working together with spring managing databases in both MongoDB and MySQL.<br>
 I'm a proactive person; "I'm hungry" to learn and improve every day.<br>
@@ -47,18 +52,30 @@ That is why my zen moment is mtb and hiking. 🚵<br>
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
 <p align="left">
-<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"width="40" height="40" />
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" />
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"alt="mongodb" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"alt="mysql" width="40" height="40" /><a href="https://postman.com" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"alt="docker" width="35" height="35" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png"alt="Intellij" width="35" height="35" />
+<img src="https://cdn.icon-icons.com/icons2/3110/PNG/96/eclipse_icon_191751.png" alt="Eclipse" width="35"height="35" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/888px-Apache_NetBeans_Logo.svg.png"alt="Netbeands" width="35" height="35" />
 
 </details>
 <br>
 
-![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisGalHur&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisGalHur&layout=compact&show_icons=true&theme=dark)](https://github.com/ChrisGalHur/github-readme-stats)
-
+<h3>Stats</h3>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=chrisgalhur&theme=dark&show_icons=true&count_private=true" alt="GitHub Statistics" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=chrisgalhur&theme=dark&langs_count=10&hide_border=true" alt="Most Used Languages" />
+    </td>
+  </tr>
+</table>
