@@ -47,6 +47,7 @@ That is why my zen moment is mtb and hiking. 🚵<br>
 
 ## <a name="knowledge"></a>Knowledge
 - [Inheritance and polymorphism](https://github.com/ChrisGalHur/Inheritance_and_polymorphism)
+- [Android Kotlin Advanced Final Exam](https://github.com/ChrisGalHur/kotlin_advanced)
 <br>
 
 <details>
