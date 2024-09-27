@@ -27,7 +27,7 @@ That is why my zen moment is mtb and hiking. 🚵<br>
 
 <h3>:pick: Now i'm working on:</h3>
 
-[Android Game 'Dice Quest'](https://github.com/ChrisGalHur/DiceQuest-Android-Java)
+[Hackató i Marketplace Barcelona](https://github.com/ChrisGalHur/Hackato-i-Marketplace)
 
 <br>
 <br>
