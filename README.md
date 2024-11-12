@@ -27,23 +27,22 @@ That is why my zen moment is mtb and hiking. 🚵<br>
 
 <h3>:pick: Now i'm working on:</h3>
 
-[Hackató i Marketplace Barcelona](https://github.com/ChrisGalHur/Hackato-i-Marketplace)
+### [TareApp](https://github.com/ChrisGalHur/TareApp) 🤓
+
+**This project gives me the opportunity to demonstrate and expand my skills in both mobile application programming and backend development, adopting modern technologies and architectures.<br>
+<br>
+The project is designed to be scalable, allowing the integration of new functionalities and the incorporation of advanced technologies that optimize its performance and functionality, making this application a differential technological product.<br>
+<br>
+As with any complex project, there are always opportunities for enhancement. I welcome constructive feedback and collaboration to further refine and improve this application. Please feel free to contact me with any insights or suggestions for making this project even better.**
 
 <br>
 <br>
-<br>
 
-## Connect with me
-<p align="left">
-<a href="https://www.linkedin.com/in/chrisgalhur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/chrisgalhur" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/christian_galve1?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@christian_galve1" height="30" width="40" /></a>
-</p>
-<br>
-
-# My repositories
+# My best repositories
 
 ## <a name="projects"></a>Projects
 - [Backend for a Dice Quest Game with JWT Security](https://github.com/ChrisGalHur/Dice-Game-Backend)
+- [Hackató i Marketplace Barcelona](https://github.com/ChrisGalHur/Hackato-i-Marketplace)
 
 ## <a name="knowledge"></a>Knowledge
 - [Inheritance and polymorphism](https://github.com/ChrisGalHur/Inheritance_and_polymorphism)
@@ -68,6 +67,12 @@ That is why my zen moment is mtb and hiking. 🚵<br>
 </details>
 <br>
 
+## Connect with me
+<p align="left">
+<a href="https://www.linkedin.com/in/chrisgalhur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/chrisgalhur" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/christian_galve1?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@christian_galve1" height="30" width="40" /></a>
+</p>
+<br>
 
 <h3>Stats</h3>
 <table>
