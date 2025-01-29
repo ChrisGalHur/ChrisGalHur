@@ -49,23 +49,8 @@ As with any complex project, there are always opportunities for enhancement. I w
 - [Android Kotlin Advanced Final Exam](https://github.com/ChrisGalHur/kotlin_advanced)
 <br>
 
-<details>
-  <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"width="40" height="40" />
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" />
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"alt="mongodb" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"alt="mysql" width="40" height="40" /><a href="https://postman.com" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"alt="docker" width="35" height="35" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png"alt="Intellij" width="35" height="35" />
-<img src="https://cdn.icon-icons.com/icons2/3110/PNG/96/eclipse_icon_191751.png" alt="Eclipse" width="35"height="35" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/888px-Apache_NetBeans_Logo.svg.png"alt="Netbeands" width="35" height="35" />
-
-</details>
-<br>
+## 🛠️Languages and Tools  
+[![My Skills](https://skillicons.dev/icons?i=java,spring,git,mongodb,mysql,sqlite,postman,docker,idea,androidstudio,maven,gradle&perline=12)](#)
 
 ## Connect with me
 <p align="left">
