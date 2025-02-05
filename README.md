@@ -27,15 +27,26 @@ That is why my zen moment is mtb and hiking. 🚵<br>
 
 <h3>:pick: Now i'm working on:</h3>
 
-### [TareApp](https://github.com/ChrisGalHur/TareApp) 🤓
+### [TareApp](https://github.com/ChrisGalHur/TareApp)
 
-**This project gives me the opportunity to demonstrate and expand my skills in both mobile application programming and backend development, adopting modern technologies and architectures.<br>
+This project gives me the opportunity to demonstrate and expand my skills in both mobile application programming and backend development, adopting modern technologies and architectures.<br>
 <br>
 The project is designed to be scalable, allowing the integration of new functionalities and the incorporation of advanced technologies that optimize its performance and functionality, making this application a differential technological product.<br>
 <br>
-As with any complex project, there are always opportunities for enhancement. I welcome constructive feedback and collaboration to further refine and improve this application. Please feel free to contact me with any insights or suggestions for making this project even better.**
+As with any complex project, there are always opportunities for enhancement. I welcome constructive feedback and collaboration to further refine and improve this application. Please feel free to contact me with any insights or suggestions for making this project even better.
 
+<h3> 🤓 And right now I am also studying:</h3>
+
+### [Microservices with Spring, Docker and OAuth2](https://github.com/ChrisGalHur/Microservices-Spring-boot-Spring-Cloud-API-REST-swagger-APIfirst-Docker-y-OAuht2)
+
+I am taking a course to expand my knowledge in both **Microservices** and **Spring**.<br>
 <br>
+In this course I am learning how to create **Microservices** along with their planning, design and **architectural patterns** to create robust and scalable distributed systems. Utilizando **Netflix Eureka**, **Spring Config**, **Spring Admin**, **API Gateway** y **Spring WebFlux**.<br>
+<br>
+I am also enhancing my security implementation with **Spring Security**, **OAuth2**, **JWT** and **Single Sign On using Keycloak** as identity provider.<br>
+<br>
+In addition to packaging and deploying containerized **Microservices**, orchestrated with **Docker Compose** for **end-to-end testing**.
+
 <br>
 
 # My best repositories
@@ -45,6 +56,7 @@ As with any complex project, there are always opportunities for enhancement. I w
 - [Hackató i Marketplace Barcelona](https://github.com/ChrisGalHur/Hackato-i-Marketplace)
 
 ## <a name="knowledge"></a>Knowledge
+- [Microservices with Spring, Docker and OAuth2 (Getting Now)](https://github.com/ChrisGalHur/Microservices-Spring-boot-Spring-Cloud-API-REST-swagger-APIfirst-Docker-y-OAuht2)
 - [Inheritance and polymorphism](https://github.com/ChrisGalHur/Inheritance_and_polymorphism)
 - [Android Kotlin Advanced Final Exam](https://github.com/ChrisGalHur/kotlin_advanced)
 <br>
